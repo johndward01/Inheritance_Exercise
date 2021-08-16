@@ -5,11 +5,10 @@ namespace Inheritance_Exercise_01_Answers
     class Program
     {
         #region// TODO: Demonstrate inheritance using a class
-        // TODO: Create a base class called Dog
-        // TODO: 
-
-        // TODO: Create a Beagle class that inherits from the Dog class
-        // TODO: Give 
+        // TODO: Create a base class called Level
+        // TODO: Give the Level class 
+        // TODO: Create a child class called Level1 that inherits from the Level class
+        // TODO: Give the Level class methods and properties related to your first level (be creative)
 
         #endregion
 
@@ -26,6 +25,7 @@ namespace Inheritance_Exercise_01_Answers
 
 
         #endregion
+
         static void Main(string[] args)
         {
             // TODO: 
