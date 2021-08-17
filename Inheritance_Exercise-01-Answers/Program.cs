@@ -5,25 +5,21 @@ namespace Inheritance_Exercise_01_Answers
     class Program
     {
         #region// TODO: Demonstrate inheritance using a class
-        // TODO: Create a base class called Level
-        // TODO: Give the Level class 
-        // TODO: Create a child class called Level1 that inherits from the Level class
-        // TODO: Give the Level class methods and properties related to your first level (be creative)
 
-        #endregion
+        // TODO: Create a base class called Character
+        // TODO: Give the Character class properties (be cretive)
+        // TODO: Give the Character class base attack and defend methods
 
-        #region// TODO: Demonstrate Inheritance using an abstract class
+        // TODO: Create a child class called MainCharacter that inherits from the base class
+        // TODO: Give the MainCharacter class methods and properties (be creative)
 
-
-
-
-        #endregion
+        // TODO: Create another child class called EnemyCharacter that inherits from the base class
+        // TODO: Give the EnemyCharacter class methods and properties (be creative)
 
 
-        #region// TODO: Demonstrate Multiple Inheritance using Interfaces
-
-
-
+        // BONUS
+        // Create either a BossClass or CompanionClass that continues the inheritance chain
+        // TODO: Create a struct called Position which has 3 props X, Y, Z for either class
         #endregion
 
         static void Main(string[] args)
