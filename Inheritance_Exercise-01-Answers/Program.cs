@@ -4,6 +4,8 @@ namespace Inheritance_Exercise_01_Answers
 {
     class Program
     {
+        // DON'T FORGET TO CHECK THE ANSWERS IN THE OTHER FILES TOO!!!
+        
         #region// TODO: Demonstrate inheritance using a class
 
         // TODO: Create a base class called Character
